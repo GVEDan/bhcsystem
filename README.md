@@ -422,7 +422,7 @@ bhcsystem/
 ### Admin Account
 - **Username**: admin
 - **Password**: admin123
-- **Email**: admin@gmail.com
+- **Email**: admin@clinicare.bhc
 
  **Important**: Change these credentials immediately after setup for security.
 
@@ -538,4 +538,5 @@ For the best experience, please ensure you're using a modern web browser (Chrome
 #   b h c s y s t e m 
  
  
+
 
