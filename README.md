@@ -4,7 +4,7 @@ A comprehensive web-based health management system designed for barangay health 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [System Overview](#system-overview)
 - [Features](#features)
@@ -20,7 +20,7 @@ A comprehensive web-based health management system designed for barangay health 
 
 ---
 
-## 🏥 System Overview
+##  System Overview
 
 CLINICare is a modern barangay health center management system built with PHP, MySQL, and Bootstrap. It streamlines healthcare delivery by providing:
 
@@ -34,66 +34,66 @@ CLINICare is a modern barangay health center management system built with PHP, M
 
 ---
 
-## ✨ Features
+##  Features
 
 ### For Patients
 
-✅ **User Registration & Authentication**
+**User Registration & Authentication**
 - Create account with username, email, and password
 - Secure login system with role-based access
 - Password reset functionality
 
-✅ **Medical Records**
+**Medical Records**
 - View all medical records created by doctors
 - Access detailed record information
 - Track medical history
 - Receive email notifications for new records
 
-✅ **Appointment Management**
+**Appointment Management**
 - Request appointments with doctors
 - View appointment schedules
 - Check doctor availability by date
 - Schedule follow-up appointments
 
-✅ **Service Requests**
+**Service Requests**
 - Request medicines from the clinic
 - Request consultations with specific doctors
 - Track request status (pending, approved, completed)
 
-✅ **Profile Management**
+**Profile Management**
 - Update personal information
 - Change password
 - View account details
 
 ### For Admin/Doctors
 
-✅ **Dashboard**
+**Dashboard**
 - View system statistics
 - Access administrative tools
 - Manage requests and records
 
-✅ **Patient Management**
+**Patient Management**
 - View all registered patients
 - Access patient medical histories
 - Manage patient records
 
-✅ **Medical Records**
+**Medical Records**
 - Create medical records for patients
 - Include diagnosis, symptoms, treatment, prescriptions
 - Schedule follow-up appointments
 - Send email notifications to patients
 
-✅ **Appointment Management**
+  **Appointment Management**
 - View and manage patient appointments
 - Update appointment status
 - Track consultation requests
 
-✅ **Doctor Management**
+**Doctor Management**
 - Manage doctor profiles and specializations
 - Set doctor availability schedules
 - View doctor performance
 
-✅ **Request Management**
+ **Request Management**
 - Review medicine requests
 - Review consultation requests
 - Approve or reject requests
@@ -101,7 +101,7 @@ CLINICare is a modern barangay health center management system built with PHP, M
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - XAMPP or similar local server environment
@@ -142,7 +142,7 @@ To enable email notifications:
 
 ---
 
-## 👥 User Roles & Access
+##  User Roles & Access
 
 ### Patient Role
 - Access patient dashboard
@@ -163,7 +163,7 @@ To enable email notifications:
 
 ---
 
-## 📖 How to Use
+##  How to Use
 
 ### Patient Guide
 
@@ -297,7 +297,7 @@ To enable email notifications:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 bhcsystem/
@@ -371,7 +371,7 @@ bhcsystem/
 
 ---
 
-## 🗄️ Database Information
+## Database Information
 
 ### Database Name
 `bhc_system`
@@ -412,7 +412,7 @@ bhcsystem/
 
 ---
 
-## 🔐 Demo Accounts
+##  Demo Accounts
 
 ### Patient Account
 - **Username**: patient
@@ -424,11 +424,11 @@ bhcsystem/
 - **Password**: admin123
 - **Email**: admin@email.com
 
-⚠️ **Important**: Change these credentials immediately after setup for security.
+ **Important**: Change these credentials immediately after setup for security.
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Issues
 - Ensure MySQL service is running
@@ -455,7 +455,7 @@ bhcsystem/
 
 ---
 
-## 📧 Email Features
+##  Email Features
 
 CLINICare sends automated emails for:
 
@@ -467,19 +467,19 @@ CLINICare sends automated emails for:
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
-✅ Password hashing with bcrypt
-✅ Role-based access control (RBAC)
-✅ SQL prepared statements (SQL injection prevention)
-✅ XSS protection with htmlspecialchars()
-✅ Session management
-✅ Email verification
-✅ CSRF token protection (in forms)
+Password hashing with bcrypt
+Role-based access control (RBAC)
+ SQL prepared statements (SQL injection prevention)
+ XSS protection with htmlspecialchars()
+ Session management
+ Email verification
+ CSRF token protection (in forms)
 
 ---
 
-## 🎨 Technology Stack
+##  Technology Stack
 
 - **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript
 - **Backend**: PHP 7.4+
@@ -490,7 +490,7 @@ CLINICare sends automated emails for:
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
 For issues or questions:
 
@@ -502,13 +502,13 @@ For issues or questions:
 
 ---
 
-## 📝 License
+##  License
 
 This project is for barangay health center use. All rights reserved.
 
 ---
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 Potential features for future versions:
 - SMS notifications
@@ -521,19 +521,20 @@ Potential features for future versions:
 
 ---
 
-## ✅ System Status
+## System Status
 
 **Last Updated**: November 29, 2025  
 **Version**: 1.0  
-**Status**: ✅ Production Ready
+**Status**: Production Ready
 
 All tests passed. System is ready for deployment.
 
 ---
 
-**Thank you for using CLINICare!** 🏥
+**Thank you for using CLINICare!** 
 
 For the best experience, please ensure you're using a modern web browser (Chrome, Firefox, Safari, Edge).
 
-#   b h c s y s t e m  
+#   b h c s y s t e m 
+ 
  
