@@ -417,12 +417,12 @@ bhcsystem/
 ### Patient Account
 - **Username**: patient
 - **Password**: patient123
-- **Email**: patient@email.com
+- **Email**: patient@gmail.com
 
 ### Admin Account
 - **Username**: admin
 - **Password**: admin123
-- **Email**: admin@email.com
+- **Email**: admin@gmail.com
 
  **Important**: Change these credentials immediately after setup for security.
 
@@ -538,3 +538,4 @@ For the best experience, please ensure you're using a modern web browser (Chrome
 #   b h c s y s t e m 
  
  
+
